@@ -1,0 +1,6 @@
+{
+  "name": "Automotora Mardones",
+  "description": "Concesionario boutique premium de venta de autos usados en Rancagua, Chile, con más de 50 años de trayectoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
